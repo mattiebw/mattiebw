@@ -8,3 +8,5 @@ I'm Matt, and I have no idea what I'm doing. Ok, maybe a little.
 - 📫 How to reach me: mattbware3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: C++ makes me cry
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
