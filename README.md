@@ -1,12 +1,8 @@
 ### Hi there 👋
 I'm Matt, and I make things!
 
-[![Mattie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiebw)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 I’m currently at Portsmouth University, working on a BSc, as well as some hobby projects at home!
-- 🌱 I’m currently learning Unity and Unreal, and trying to write my own engine
-- 📫 How to reach me: mattbware3@gmail.com
+- 🌱 I’m currently looking for game programming intenrships working in C++, C#, Unity, or Unreal!
+- 🧑‍💻 Learning lower-level APIs such as OpenGL, Vulkan, and more, and trying to build my own engine.
+- 🔭 Studying at Portsmouth University, working on a BSc (Hons), as well as some hobby projects at home!
+- 📫 How to reach me: m@ttwa.re
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: C++ used to make me cry, but now I've gotten over it (thanks Cherno!).
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiebw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
