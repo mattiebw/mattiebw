@@ -5,4 +5,5 @@ I'm Matt (he/him), and I make things!
 - 🧑‍💻 Learning lower-level APIs such as OpenGL, Vulkan, and more, and trying to build my own engine.
 - 🔭 Studying [BSc (Hons) Computer Games Technology](https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-computer-games-technology) at the University of Portsmouth
 - 🏠 Continuing to work on hobby projects in my spare time
-- 📫 Reach me at: m@ttwa.re
+
+📫 m@ttwa.re
